@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Super Dem App" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:kashmir3d="http://www.kashmir3d.com/namespace/kashmir3d" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.kashmir3d.com/namespace/kashmir3d http://www.kashmir3d.com/namespace/kashmir3d.xsd"><trk>
+<name>地図３</name>
+<number>1</number>
+<extensions>
+<kashmir3d:line_color>261AFF</kashmir3d:line_color>
+<kashmir3d:line_size>2</kashmir3d:line_size>
+<kashmir3d:line_style>1</kashmir3d:line_style>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<kashmir3d:rate>0</kashmir3d:rate>
+</extensions>
+<trkseg>
+<trkpt lat="35.672038" lon="139.778192">
+<ele>2.320000</ele>
+<time>2019-08-14T16:17:07Z</time>
+<extensions>
+<kashmir3d:speed>-9999.00</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.672010" lon="139.778182">
+<ele>2.290000</ele>
+<time>2019-08-14T16:17:10Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671940" lon="139.778157">
+<ele>2.350000</ele>
+<time>2019-08-14T16:17:17Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671870" lon="139.778133">
+<ele>2.250000</ele>
+<time>2019-08-14T16:17:24Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671801" lon="139.778108">
+<ele>2.110000</ele>
+<time>2019-08-14T16:17:31Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671731" lon="139.778083">
+<ele>2.050000</ele>
+<time>2019-08-14T16:17:38Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671661" lon="139.778058">
+<ele>2.090000</ele>
+<time>2019-08-14T16:17:46Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671608" lon="139.778040">
+<ele>2.090000</ele>
+<time>2019-08-14T16:17:51Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

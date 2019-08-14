@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Super Dem App" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:kashmir3d="http://www.kashmir3d.com/namespace/kashmir3d" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.kashmir3d.com/namespace/kashmir3d http://www.kashmir3d.com/namespace/kashmir3d.xsd"><trk>
+<name>地図４</name>
+<number>1</number>
+<extensions>
+<kashmir3d:line_color>261AFF</kashmir3d:line_color>
+<kashmir3d:line_size>2</kashmir3d:line_size>
+<kashmir3d:line_style>1</kashmir3d:line_style>
+<kashmir3d:icon>901001</kashmir3d:icon>
+<kashmir3d:rate>0</kashmir3d:rate>
+</extensions>
+<trkseg>
+<trkpt lat="35.671864" lon="139.778822">
+<ele>2.260000</ele>
+<time>2019-08-14T16:18:01Z</time>
+<extensions>
+<kashmir3d:speed>-9999.00</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671801" lon="139.778799">
+<ele>2.350000</ele>
+<time>2019-08-14T16:18:08Z</time>
+<extensions>
+<kashmir3d:speed>1.08</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671731" lon="139.778775">
+<ele>2.410000</ele>
+<time>2019-08-14T16:18:15Z</time>
+<extensions>
+<kashmir3d:speed>1.09</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671661" lon="139.778750">
+<ele>2.420000</ele>
+<time>2019-08-14T16:18:22Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671591" lon="139.778725">
+<ele>2.430000</ele>
+<time>2019-08-14T16:18:30Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671522" lon="139.778700">
+<ele>2.240000</ele>
+<time>2019-08-14T16:18:37Z</time>
+<extensions>
+<kashmir3d:speed>1.06</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671452" lon="139.778676">
+<ele>2.020000</ele>
+<time>2019-08-14T16:18:45Z</time>
+<extensions>
+<kashmir3d:speed>1.05</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671382" lon="139.778651">
+<ele>1.950000</ele>
+<time>2019-08-14T16:18:52Z</time>
+<extensions>
+<kashmir3d:speed>1.09</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671313" lon="139.778626">
+<ele>2.040000</ele>
+<time>2019-08-14T16:19:00Z</time>
+<extensions>
+<kashmir3d:speed>1.09</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671243" lon="139.778601">
+<ele>2.010000</ele>
+<time>2019-08-14T16:19:07Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671173" lon="139.778577">
+<ele>1.950000</ele>
+<time>2019-08-14T16:19:14Z</time>
+<extensions>
+<kashmir3d:speed>1.09</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671103" lon="139.778552">
+<ele>1.820000</ele>
+<time>2019-08-14T16:19:22Z</time>
+<extensions>
+<kashmir3d:speed>1.08</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.671034" lon="139.778527">
+<ele>1.740000</ele>
+<time>2019-08-14T16:19:29Z</time>
+<extensions>
+<kashmir3d:speed>1.09</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670964" lon="139.778502">
+<ele>1.600000</ele>
+<time>2019-08-14T16:19:37Z</time>
+<extensions>
+<kashmir3d:speed>1.07</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670894" lon="139.778478">
+<ele>1.640000</ele>
+<time>2019-08-14T16:19:44Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670824" lon="139.778453">
+<ele>1.890000</ele>
+<time>2019-08-14T16:19:52Z</time>
+<extensions>
+<kashmir3d:speed>1.05</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670755" lon="139.778428">
+<ele>2.000000</ele>
+<time>2019-08-14T16:19:59Z</time>
+<extensions>
+<kashmir3d:speed>1.08</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670685" lon="139.778403">
+<ele>2.210000</ele>
+<time>2019-08-14T16:20:07Z</time>
+<extensions>
+<kashmir3d:speed>1.06</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670615" lon="139.778379">
+<ele>2.330000</ele>
+<time>2019-08-14T16:20:14Z</time>
+<extensions>
+<kashmir3d:speed>1.08</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670546" lon="139.778354">
+<ele>2.210000</ele>
+<time>2019-08-14T16:20:22Z</time>
+<extensions>
+<kashmir3d:speed>1.08</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670476" lon="139.778329">
+<ele>2.290000</ele>
+<time>2019-08-14T16:20:29Z</time>
+<extensions>
+<kashmir3d:speed>1.09</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670406" lon="139.778304">
+<ele>2.300000</ele>
+<time>2019-08-14T16:20:36Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670336" lon="139.778280">
+<ele>2.250000</ele>
+<time>2019-08-14T16:20:44Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670267" lon="139.778255">
+<ele>2.220000</ele>
+<time>2019-08-14T16:20:51Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670197" lon="139.778230">
+<ele>2.180000</ele>
+<time>2019-08-14T16:20:58Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670172" lon="139.778221">
+<ele>2.180000</ele>
+<time>2019-08-14T16:21:01Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670172" lon="139.778221">
+<ele>2.180000</ele>
+<time>2019-08-14T16:21:01Z</time>
+<extensions>
+<kashmir3d:speed>0.00</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670179" lon="139.778194">
+<ele>2.180000</ele>
+<time>2019-08-14T16:21:03Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670203" lon="139.778109">
+<ele>2.200000</ele>
+<time>2019-08-14T16:21:11Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670226" lon="139.778023">
+<ele>2.120000</ele>
+<time>2019-08-14T16:21:18Z</time>
+<extensions>
+<kashmir3d:speed>1.09</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670250" lon="139.777937">
+<ele>2.070000</ele>
+<time>2019-08-14T16:21:26Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670273" lon="139.777851">
+<ele>2.080000</ele>
+<time>2019-08-14T16:21:33Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670296" lon="139.777765">
+<ele>1.990000</ele>
+<time>2019-08-14T16:21:41Z</time>
+<extensions>
+<kashmir3d:speed>1.09</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670320" lon="139.777679">
+<ele>1.970000</ele>
+<time>2019-08-14T16:21:48Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670343" lon="139.777594">
+<ele>2.000000</ele>
+<time>2019-08-14T16:21:55Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670367" lon="139.777508">
+<ele>1.890000</ele>
+<time>2019-08-14T16:22:03Z</time>
+<extensions>
+<kashmir3d:speed>1.08</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670390" lon="139.777422">
+<ele>1.930000</ele>
+<time>2019-08-14T16:22:11Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670413" lon="139.777336">
+<ele>1.970000</ele>
+<time>2019-08-14T16:22:18Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670437" lon="139.777250">
+<ele>1.940000</ele>
+<time>2019-08-14T16:22:25Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670460" lon="139.777164">
+<ele>1.940000</ele>
+<time>2019-08-14T16:22:33Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670483" lon="139.777079">
+<ele>2.090000</ele>
+<time>2019-08-14T16:22:40Z</time>
+<extensions>
+<kashmir3d:speed>1.07</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670507" lon="139.776993">
+<ele>2.090000</ele>
+<time>2019-08-14T16:22:48Z</time>
+<extensions>
+<kashmir3d:speed>1.11</kashmir3d:speed>
+</extensions>
+</trkpt>
+<trkpt lat="35.670517" lon="139.776957">
+<ele>2.070000</ele>
+<time>2019-08-14T16:22:51Z</time>
+<extensions>
+<kashmir3d:speed>1.10</kashmir3d:speed>
+</extensions>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
